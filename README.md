@@ -4,17 +4,17 @@ Katloss Studio is a high-performance, content-aware inpainting engine designed f
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- 📸 **Photo Studio**: High-resolution image inpainting with Telea & Navier-Stokes content-aware algorithms.
-- 🎬 **Video Studio**: Frame-by-frame temporal consistency watermark removal with FFmpeg integration.
-- 🔍 **Smart Watermark Detection**: Multi-point automated and semi-automated mask generation.
-- ⚡ **Real-time Processing**: Fast FastAPI asynchronous pipeline with task queuing and progress tracking.
-- 🎨 **Modern Interactive UI**: Responsive, dark-mode studio interface built with Vite, React, and TypeScript.
+- **Photo Studio**: High-resolution image inpainting with Telea & Navier-Stokes content-aware algorithms.
+- **Video Studio**: Frame-by-frame temporal consistency watermark removal with FFmpeg integration.
+- **Smart Watermark Detection**: Multi-point automated and semi-automated mask generation.
+- **Real-time Processing**: Fast FastAPI asynchronous pipeline with task queuing and progress tracking.
+- **Modern Interactive UI**: Responsive, dark-mode studio interface built with Vite, React, and TypeScript.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 katloss/
@@ -35,7 +35,7 @@ katloss/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ Open `http://localhost:5173` in your browser to access the Katloss Studio UI.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: FastAPI, OpenCV, NumPy, FFmpeg, Uvicorn
 - **Frontend**: React 18, TypeScript, Vite, Lucide Icons, Modern CSS
@@ -90,6 +90,6 @@ Open `http://localhost:5173` in your browser to access the Katloss Studio UI.
 
 ---
 
-## 📄 License
+## License
 
 MIT License
